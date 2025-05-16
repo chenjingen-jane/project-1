@@ -1,1 +1,3 @@
 tasdfasdfaw
+git config --global user.email "chenjingen199@gmail.com"
+git config --global user.name "chenjingen-jane"
